@@ -1,0 +1,6 @@
+@article{REPO067,
+    author = "Kong, Xiang and Jiang, Lu and Chang, Huiwen and Zhang, Han and Hao, Yuan and Gong, Haifeng and Essa, Irfan",
+    journal = "arXiv preprint arXiv:2112.05112",
+    title = "{BLT: Bidirectional Layout Transformer for Controllable Layout Generation}",
+    year = "2021"
+}

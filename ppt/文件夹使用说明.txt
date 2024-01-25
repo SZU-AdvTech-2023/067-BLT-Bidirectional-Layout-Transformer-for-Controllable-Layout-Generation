@@ -1,0 +1,7 @@
+这个文件夹用来在导出时自定义素材，可以放入以下文件：
+text.txt
+title.txt
+list.txt
+table.xlsx
+figure.png
+进一步的修改请到ppt文件中完成
